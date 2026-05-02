@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0788-rotated-digits](https://github.com/Shruthi62/leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shruthi62/leetcode-problems/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Shruthi62/leetcode-problems/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Shruthi62/leetcode-problems/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0788-rotated-digits](https://github.com/Shruthi62/leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
 | [1622-fancy-sequence](https://github.com/Shruthi62/leetcode-problems/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shruthi62/leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
