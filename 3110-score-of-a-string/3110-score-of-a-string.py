@@ -6,6 +6,6 @@ class Solution:
             b=ord(s[i+1])
             temp=abs(a-b)
             ans=ans+temp
-            print(ans)
+           
         return ans
         
