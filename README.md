@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shruthi62/leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Shruthi62/leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Shruthi62/leetcode-problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2751-robot-collisions](https://github.com/Shruthi62/leetcode-problems/tree/main/2751-robot-collisions/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Shruthi62/leetcode-problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shruthi62/leetcode-problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shruthi62/leetcode-problems/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Shruthi62/leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Shruthi62/leetcode-problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shruthi62/leetcode-problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3110-score-of-a-string](https://github.com/Shruthi62/leetcode-problems/tree/main/3110-score-of-a-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Shruthi62/leetcode-problems/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/Shruthi62/leetcode-problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shruthi62/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shruthi62/leetcode-problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Shruthi62/leetcode-problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2751-robot-collisions](https://github.com/Shruthi62/leetcode-problems/tree/main/2751-robot-collisions/) | Hard |
 ## Dynamic Programming
