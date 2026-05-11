@@ -1,9 +1,14 @@
 class Solution:
     def finalValueAfterOperations(self, operations: List[str]) -> int:
-        count = 0
-        for op in operations:
-            if "-" in op:
-                count -= 1
+
+        X = 0
+
+        for i in operations:
+
+            if i == "X++" or i == "++X":
+                X = X + 1
+
             else:
-                count += 1
-        return count
+                X = X - 1
+
+        return X
