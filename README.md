@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Shruthi62/leetcode-problems/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Shruthi62/leetcode-problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Shruthi62/leetcode-problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shruthi62/leetcode-problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Shruthi62/leetcode-problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0771-jewels-and-stones](https://github.com/Shruthi62/leetcode-problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shruthi62/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Shruthi62/leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shruthi62/leetcode-problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
