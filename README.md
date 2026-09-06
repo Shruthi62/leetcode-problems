@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/Shruthi62/leetcode-problems/tree/main/0058-length-of-last-word/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Shruthi62/leetcode-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shruthi62/leetcode-problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Shruthi62/leetcode-problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Shruthi62/leetcode-problems/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/Shruthi62/leetcode-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Shruthi62/leetcode-problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shruthi62/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Shruthi62/leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
