@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Shruthi62/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shruthi62/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shruthi62/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Shruthi62/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shruthi62/leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shruthi62/leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Shruthi62/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shruthi62/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 ## Database
 | Problem Name | Difficulty |
