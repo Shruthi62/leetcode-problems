@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Shruthi62/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Shruthi62/leetcode-problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Shruthi62/leetcode-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shruthi62/leetcode-problems/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Shruthi62/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [2751-robot-collisions](https://github.com/Shruthi62/leetcode-problems/tree/main/2751-robot-collisions/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -184,4 +186,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Shruthi62/leetcode-problems/tree/main/0175-combine-two-tables/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Shruthi62/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
