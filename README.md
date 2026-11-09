@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Shruthi62/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Shruthi62/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0228-summary-ranges](https://github.com/Shruthi62/leetcode-problems/tree/main/0228-summary-ranges/) | Easy |
+| [0268-missing-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shruthi62/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shruthi62/leetcode-problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Shruthi62/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Shruthi62/leetcode-problems/tree/main/0205-isomorphic-strings/) | Easy |
+| [0268-missing-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Shruthi62/leetcode-problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shruthi62/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Shruthi62/leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -121,10 +123,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Shruthi62/leetcode-problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shruthi62/leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shruthi62/leetcode-problems/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shruthi62/leetcode-problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -146,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Shruthi62/leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Shruthi62/leetcode-problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0268-missing-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0788-rotated-digits](https://github.com/Shruthi62/leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
 | [1622-fancy-sequence](https://github.com/Shruthi62/leetcode-problems/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -168,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Shruthi62/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Shruthi62/leetcode-problems/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shruthi62/leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2751-robot-collisions](https://github.com/Shruthi62/leetcode-problems/tree/main/2751-robot-collisions/) | Hard |
