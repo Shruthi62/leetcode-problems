@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Shruthi62/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0066-plus-one](https://github.com/Shruthi62/leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Shruthi62/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Shruthi62/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shruthi62/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shruthi62/leetcode-problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Shruthi62/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Shruthi62/leetcode-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Shruthi62/leetcode-problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shruthi62/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Shruthi62/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Shruthi62/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shruthi62/leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2751-robot-collisions](https://github.com/Shruthi62/leetcode-problems/tree/main/2751-robot-collisions/) | Hard |
@@ -182,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Shruthi62/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Shruthi62/leetcode-problems/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -196,4 +200,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Shruthi62/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Shruthi62/leetcode-problems/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Shruthi62/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
