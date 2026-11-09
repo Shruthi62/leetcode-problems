@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Shruthi62/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0066-plus-one](https://github.com/Shruthi62/leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Shruthi62/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shruthi62/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/Shruthi62/leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Shruthi62/leetcode-problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0788-rotated-digits](https://github.com/Shruthi62/leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
