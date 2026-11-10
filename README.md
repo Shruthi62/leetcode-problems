@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/Shruthi62/leetcode-problems/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/Shruthi62/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shruthi62/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shruthi62/leetcode-problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Shruthi62/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0455-assign-cookies](https://github.com/Shruthi62/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shruthi62/leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shruthi62/leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Shruthi62/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/Shruthi62/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shruthi62/leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2751-robot-collisions](https://github.com/Shruthi62/leetcode-problems/tree/main/2751-robot-collisions/) | Hard |
@@ -201,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Shruthi62/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shruthi62/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0455-assign-cookies](https://github.com/Shruthi62/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,4 +221,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Shruthi62/leetcode-problems/tree/main/0169-majority-element/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/Shruthi62/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
