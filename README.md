@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shruthi62/leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0819-most-common-word](https://github.com/Shruthi62/leetcode-problems/tree/main/0819-most-common-word/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shruthi62/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/Shruthi62/leetcode-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shruthi62/leetcode-problems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Shruthi62/leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Shruthi62/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Shruthi62/leetcode-problems/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Shruthi62/leetcode-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Shruthi62/leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shruthi62/leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Shruthi62/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shruthi62/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0455-assign-cookies](https://github.com/Shruthi62/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Shruthi62/leetcode-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
