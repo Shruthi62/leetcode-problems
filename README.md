@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Shruthi62/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Shruthi62/leetcode-problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0575-distribute-candies](https://github.com/Shruthi62/leetcode-problems/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Shruthi62/leetcode-problems/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shruthi62/leetcode-problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
