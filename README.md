@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0929-unique-email-addresses](https://github.com/Shruthi62/leetcode-problems/tree/main/0929-unique-email-addresses/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shruthi62/leetcode-problems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Shruthi62/leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shruthi62/leetcode-problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Shruthi62/leetcode-problems/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shruthi62/leetcode-problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shruthi62/leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shruthi62/leetcode-problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shruthi62/leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shruthi62/leetcode-problems/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shruthi62/leetcode-problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Shruthi62/leetcode-problems/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shruthi62/leetcode-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Shruthi62/leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shruthi62/leetcode-problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shruthi62/leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2751-robot-collisions](https://github.com/Shruthi62/leetcode-problems/tree/main/2751-robot-collisions/) | Hard |
@@ -236,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Shruthi62/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0455-assign-cookies](https://github.com/Shruthi62/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shruthi62/leetcode-problems/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shruthi62/leetcode-problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
