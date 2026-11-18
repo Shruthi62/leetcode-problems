@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0929-unique-email-addresses](https://github.com/Shruthi62/leetcode-problems/tree/main/0929-unique-email-addresses/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shruthi62/leetcode-problems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Shruthi62/leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Shruthi62/leetcode-problems/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shruthi62/leetcode-problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shruthi62/leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Shruthi62/leetcode-problems/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Shruthi62/leetcode-problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Shruthi62/leetcode-problems/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
