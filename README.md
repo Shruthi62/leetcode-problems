@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Shruthi62/leetcode-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Shruthi62/leetcode-problems/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Shruthi62/leetcode-problems/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shruthi62/leetcode-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0415-add-strings](https://github.com/Shruthi62/leetcode-problems/tree/main/0415-add-strings/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shruthi62/leetcode-problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shruthi62/leetcode-problems/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Shruthi62/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shruthi62/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0344-reverse-string](https://github.com/Shruthi62/leetcode-problems/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shruthi62/leetcode-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0455-assign-cookies](https://github.com/Shruthi62/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shruthi62/leetcode-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shruthi62/leetcode-problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
