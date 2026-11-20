@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/Shruthi62/leetcode-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Shruthi62/leetcode-problems/tree/main/0929-unique-email-addresses/) | Easy |
 | [0942-di-string-match](https://github.com/Shruthi62/leetcode-problems/tree/main/0942-di-string-match/) | Easy |
+| [0997-find-the-town-judge](https://github.com/Shruthi62/leetcode-problems/tree/main/0997-find-the-town-judge/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shruthi62/leetcode-problems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Shruthi62/leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shruthi62/leetcode-problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0819-most-common-word](https://github.com/Shruthi62/leetcode-problems/tree/main/0819-most-common-word/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shruthi62/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Shruthi62/leetcode-problems/tree/main/0929-unique-email-addresses/) | Easy |
+| [0997-find-the-town-judge](https://github.com/Shruthi62/leetcode-problems/tree/main/0997-find-the-town-judge/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Shruthi62/leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1436-destination-city](https://github.com/Shruthi62/leetcode-problems/tree/main/1436-destination-city/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Shruthi62/leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0997-find-the-town-judge](https://github.com/Shruthi62/leetcode-problems/tree/main/0997-find-the-town-judge/) | Easy |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shruthi62/leetcode-problems/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
