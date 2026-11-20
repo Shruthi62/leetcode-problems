@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/Shruthi62/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Shruthi62/leetcode-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Shruthi62/leetcode-problems/tree/main/0929-unique-email-addresses/) | Easy |
+| [0942-di-string-match](https://github.com/Shruthi62/leetcode-problems/tree/main/0942-di-string-match/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shruthi62/leetcode-problems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Shruthi62/leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shruthi62/leetcode-problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Shruthi62/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/Shruthi62/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Shruthi62/leetcode-problems/tree/main/0860-lemonade-change/) | Easy |
+| [0942-di-string-match](https://github.com/Shruthi62/leetcode-problems/tree/main/0942-di-string-match/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shruthi62/leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shruthi62/leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0804-unique-morse-code-words](https://github.com/Shruthi62/leetcode-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/Shruthi62/leetcode-problems/tree/main/0819-most-common-word/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Shruthi62/leetcode-problems/tree/main/0929-unique-email-addresses/) | Easy |
+| [0942-di-string-match](https://github.com/Shruthi62/leetcode-problems/tree/main/0942-di-string-match/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Shruthi62/leetcode-problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1436-destination-city](https://github.com/Shruthi62/leetcode-problems/tree/main/1436-destination-city/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shruthi62/leetcode-problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -259,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/Shruthi62/leetcode-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0455-assign-cookies](https://github.com/Shruthi62/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shruthi62/leetcode-problems/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0942-di-string-match](https://github.com/Shruthi62/leetcode-problems/tree/main/0942-di-string-match/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shruthi62/leetcode-problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Database
 | Problem Name | Difficulty |
