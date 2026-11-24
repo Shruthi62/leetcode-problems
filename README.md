@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/Shruthi62/leetcode-problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Shruthi62/leetcode-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/Shruthi62/leetcode-problems/tree/main/0819-most-common-word/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/Shruthi62/leetcode-problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0860-lemonade-change](https://github.com/Shruthi62/leetcode-problems/tree/main/0860-lemonade-change/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shruthi62/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Shruthi62/leetcode-problems/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/Shruthi62/leetcode-problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Shruthi62/leetcode-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/Shruthi62/leetcode-problems/tree/main/0819-most-common-word/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/Shruthi62/leetcode-problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Shruthi62/leetcode-problems/tree/main/0929-unique-email-addresses/) | Easy |
 | [0942-di-string-match](https://github.com/Shruthi62/leetcode-problems/tree/main/0942-di-string-match/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Shruthi62/leetcode-problems/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Shruthi62/leetcode-problems/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shruthi62/leetcode-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0455-assign-cookies](https://github.com/Shruthi62/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/Shruthi62/leetcode-problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shruthi62/leetcode-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0942-di-string-match](https://github.com/Shruthi62/leetcode-problems/tree/main/0942-di-string-match/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shruthi62/leetcode-problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
