@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0819-most-common-word](https://github.com/Shruthi62/leetcode-problems/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Shruthi62/leetcode-problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0860-lemonade-change](https://github.com/Shruthi62/leetcode-problems/tree/main/0860-lemonade-change/) | Easy |
+| [0867-transpose-matrix](https://github.com/Shruthi62/leetcode-problems/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shruthi62/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Shruthi62/leetcode-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Shruthi62/leetcode-problems/tree/main/0929-unique-email-addresses/) | Easy |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/Shruthi62/leetcode-problems/tree/main/0867-transpose-matrix/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Shruthi62/leetcode-problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shruthi62/leetcode-problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shruthi62/leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0415-add-strings](https://github.com/Shruthi62/leetcode-problems/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shruthi62/leetcode-problems/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0867-transpose-matrix](https://github.com/Shruthi62/leetcode-problems/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shruthi62/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shruthi62/leetcode-problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shruthi62/leetcode-problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
