@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Shruthi62/leetcode-problems/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shruthi62/leetcode-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Shruthi62/leetcode-problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Shruthi62/leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [0415-add-strings](https://github.com/Shruthi62/leetcode-problems/tree/main/0415-add-strings/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/Shruthi62/leetcode-problems/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shruthi62/leetcode-problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Shruthi62/leetcode-problems/tree/main/0290-word-pattern/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Shruthi62/leetcode-problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Shruthi62/leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shruthi62/leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/Shruthi62/leetcode-problems/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Shruthi62/leetcode-problems/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/Shruthi62/leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Shruthi62/leetcode-problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -255,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Shruthi62/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Shruthi62/leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/Shruthi62/leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Shruthi62/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0506-relative-ranks](https://github.com/Shruthi62/leetcode-problems/tree/main/0506-relative-ranks/) | Easy |
