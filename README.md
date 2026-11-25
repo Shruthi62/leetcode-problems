@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/Shruthi62/leetcode-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Shruthi62/leetcode-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Shruthi62/leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Shruthi62/leetcode-problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/Shruthi62/leetcode-problems/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Shruthi62/leetcode-problems/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shruthi62/leetcode-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Shruthi62/leetcode-problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Shruthi62/leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shruthi62/leetcode-problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Shruthi62/leetcode-problems/tree/main/0257-binary-tree-paths/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,4 +353,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shruthi62/leetcode-problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Shruthi62/leetcode-problems/tree/main/0257-binary-tree-paths/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Shruthi62/leetcode-problems/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
