@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Shruthi62/leetcode-problems/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shruthi62/leetcode-problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shruthi62/leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0682-baseball-game](https://github.com/Shruthi62/leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Shruthi62/leetcode-problems/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/Shruthi62/leetcode-problems/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/Shruthi62/leetcode-problems/tree/main/0705-design-hashset/) | Easy |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/Shruthi62/leetcode-problems/tree/main/0415-add-strings/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Shruthi62/leetcode-problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shruthi62/leetcode-problems/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0682-baseball-game](https://github.com/Shruthi62/leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/Shruthi62/leetcode-problems/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shruthi62/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shruthi62/leetcode-problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Shruthi62/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shruthi62/leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0682-baseball-game](https://github.com/Shruthi62/leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 | [2751-robot-collisions](https://github.com/Shruthi62/leetcode-problems/tree/main/2751-robot-collisions/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
