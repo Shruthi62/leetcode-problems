@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0697-degree-of-an-array](https://github.com/Shruthi62/leetcode-problems/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/Shruthi62/leetcode-problems/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/Shruthi62/leetcode-problems/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/Shruthi62/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shruthi62/leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Shruthi62/leetcode-problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Shruthi62/leetcode-problems/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shruthi62/leetcode-problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Shruthi62/leetcode-problems/tree/main/0697-degree-of-an-array/) | Easy |
 | [0705-design-hashset](https://github.com/Shruthi62/leetcode-problems/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/Shruthi62/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Shruthi62/leetcode-problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Shruthi62/leetcode-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/Shruthi62/leetcode-problems/tree/main/0819-most-common-word/) | Easy |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/Shruthi62/leetcode-problems/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/Shruthi62/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 | [1622-fancy-sequence](https://github.com/Shruthi62/leetcode-problems/tree/main/1622-fancy-sequence/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -348,10 +351,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/Shruthi62/leetcode-problems/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/Shruthi62/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/Shruthi62/leetcode-problems/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/Shruthi62/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
